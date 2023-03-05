@@ -118,7 +118,7 @@ def piechar():
     """
 
 
-# Calling the function to read data
+# Calling the function to read data for creating piechart
 Transport_data = read_data("Piechart")
 print(Transport_data)
 Mode_of_transportation = Transport_data["Mode"]
